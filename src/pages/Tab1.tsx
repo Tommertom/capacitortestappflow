@@ -5,10 +5,6 @@ import './Tab1.css';
 const Tab1: React.FC = () => {
   return (
     <IonPage>
-
-
-
-
       <IonHeader>
         <IonToolbar>
           <IonTitle>Tab 1 VIRU</IonTitle>
